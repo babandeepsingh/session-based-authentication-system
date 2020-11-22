@@ -1,8 +1,15 @@
 # session-based-authentication-system
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [npm init](https://docs.npmjs.com/cli/v6/commands/npm-init/).
 
-view [live](https://session-based-authentication-system.ga) website
+# Live available
+[live website](https://session-based-authentication-system.ga)
+
+# Dependencies
+[express](https://www.npmjs.com/package/express)
+[express-session](https://www.npmjs.com/search?q=express-session)
+[body-parser](https://www.npmjs.com/package/body-parser)
+
 
 ## Available Scripts
 
