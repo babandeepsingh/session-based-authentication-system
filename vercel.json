@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "builds": [
+        { "src": "*.js", "use": "@now/node" }
+    ],
+    "routes": [
+        { "src": "/login", "dest": "index.js" },
+        { "src": "/register", "dest": "index.js" },
+        { "src": "/dashboard", "dest": "index.js" },
+        { "src": "/logout", "dest": "index.js" }
+      ]
+}
